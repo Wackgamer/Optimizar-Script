@@ -1,5 +1,5 @@
 # Optimizar-Script
-Repositorio OFICIAL de Optimizar-Script
+Repositorio OFICIAL de Optimizar-Script por @Wackgamer
 
 Este script fue hecho con fines de optimización.
 
