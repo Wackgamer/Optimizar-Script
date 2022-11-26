@@ -5,4 +5,5 @@ Este script fue hecho con fines de optimización.
 
 !! No olvides ejecutarlo como administrador !!
 
-Releases: https://github.com/Wackgamer/Optimizar-Script/releases
+- Releases: https://github.com/Wackgamer/Optimizar-Script/releases
+- Wiki: https://github.com/Wackgamer/Optimizar-Script/wiki
