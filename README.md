@@ -12,7 +12,7 @@ Este script fue hecho con fines de optimización para que puedas sacarle jugo a 
 
 🌟 *Ventajas:* 🌟
 
-- ✅ Repara el sistema
+- ✅ Repara el sistema operativo
 - ✅ Optimiza tus discos
 - ✅ Repara tus discos para que puedas asegurarte de que tu computadora funcione bien ;)
 - ✅ Mejora tu conexión a Internet, o la estabiliza... Usando el cortafuegos de tu computadora
