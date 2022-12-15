@@ -17,3 +17,5 @@ Este script fue hecho con fines de optimización para que puedas sacarle jugo a 
 - ✅ Repara tus discos para que puedas asegurarte de que tu computadora funcione bien ;)
 - ✅ Mejora tu conexión a Internet, o la estabiliza... Usando el cortafuegos de tu computadora
 - ✅ Quita los archivos de la carpeta de arranque (Startup) para que no se sature tanto tu computadora
+
+Si te gusta todo esto, por favor dale la estrellita a este repositorio. Te lo voy a agradecer un montón.
