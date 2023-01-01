@@ -12,6 +12,7 @@ Este script fue hecho con fines de optimización para que puedas sacarle jugo a 
 
 🌟 *Ventajas:* 🌟
 
+- ✅ Brinda seguridad
 - ✅ Busca actualizaciones disponibles de Windows
 - ✅ Repara el sistema operativo
 - ✅ Optimiza y analiza tus discos
