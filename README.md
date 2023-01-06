@@ -22,3 +22,4 @@ Este script fue hecho con fines de optimización para que puedas sacarle jugo a 
 - ✅ Es portable debido a que no se necesita ningún tipo de instalador
 
 Si te gusta todo esto, por favor dale la estrellita a este repositorio. Te lo voy a agradecer un montón.
+![image](https://user-images.githubusercontent.com/68253463/210906478-6fcc1e85-c6cd-429a-9f96-0110e88a254a.png)
